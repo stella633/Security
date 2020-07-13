@@ -1,0 +1,10 @@
+﻿  Injection.cpp
+  main.cpp
+C:\Users\ktg73\Desktop\ManualInject\ManualInject\main.cpp(197,9): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'PVOID'입니다.
+C:\Users\ktg73\Desktop\ManualInject\ManualInject\main.cpp(248,9): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'PVOID'입니다.
+C:\Users\ktg73\Desktop\ManualInject\ManualInject\main.cpp(252,10): warning C4477: 'printf' : 서식 문자열 '%#x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'PVOID'입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  ManualInject.vcxproj -> C:\Users\ktg73\Desktop\ManualInject\Release\ManualInject.exe
